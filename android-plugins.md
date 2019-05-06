@@ -15,3 +15,5 @@ List of cool Android Studio plugins shortlisted by Android Dev BR community
 | Material Theme UI | https://plugins.jetbrains.com/plugin/8006-material-theme-ui
 | Key Promoter X | https://plugins.jetbrains.com/plugin/9792-key-promoter-x
 | Key Promoter | https://plugins.jetbrains.com/plugin/4455-key-promoter
+| Customizando android studio | https://www.youtube.com/watch?v=M0jaz-Bd_20&t=1s
+| Customizando android studio | https://www.slideshare.net/homempassaro/customizando-android-studio-125034595
