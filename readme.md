@@ -53,6 +53,8 @@
 | Android: Forward intent result | https://medium.com/@nhancv/android-forward-intent-result-ec27bf15748b
 
 ### Read 2018
+| Name | Link |
+| -- | --|
 | Download Favoritos para importa no Google Chrome | https://gist.github.com/rodolfoizidoro/f0d5051d9109eb7dc70c2dfcf42a67aa
 | MVVM with Kotlin — Android Architecture Components, Dagger 2, Retrofit and RxAndroid | https://proandroiddev.com/mvvm-with-kotlin-android-architecture-components-dagger-2-retrofit-and-rxandroid-1a4ebb38c699
 | 30 summertime Android libraries and tools which you don’t want to miss in 2018 |https://medium.com/@mmbialas/30-summertime-android-libraries-and-tools-which-you-dont-want-to-miss-in-2018-fab053d69503
