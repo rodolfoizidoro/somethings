@@ -1,6 +1,7 @@
 ### Credits : https://gist.github.com/rmxsantiago/99aea2760123626f8709dd76ea379ef5
 
 List of cool Android Studio plugins shortlisted by Android Dev BR community
+
 | Name | Download link |
 | -- | --|
 | Rainbow Brackets | https://plugins.jetbrains.com/plugin/10080-rainbow-brackets
