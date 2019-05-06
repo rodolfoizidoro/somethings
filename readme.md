@@ -5,7 +5,6 @@
 
 | Name | Link |
 | -- | --|
-| Download Favoritos para importa no Google Chrome | https://gist.github.com/rodolfoizidoro/f0d5051d9109eb7dc70c2dfcf42a67aa
 | Kotlin at Uber | http://talkingkotlin.com/kotlin-at-uber/
 | Measuring Kotlin Build Performance at Uber| https://eng.uber.com/measuring-kotlin-build-performance/
 | A curated list of awesome Android packages and resources. | https://github.com/JStumpp/awesome-android
