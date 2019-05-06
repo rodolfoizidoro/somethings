@@ -1,4 +1,4 @@
-### Read
+### Read 1/2 - 2019
 
 | Name | Link |
 | -- | --|
@@ -51,3 +51,43 @@
 | Android MVVM Kotlin Tutorial - LiveData + ViewModel (Android Architecture Components) | https://www.youtube.com/watch?v=d7UxPYxgBoA&app=desktop
 | Notes to Myself on Software Engineering | https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d
 | Android: Forward intent result | https://medium.com/@nhancv/android-forward-intent-result-ec27bf15748b
+
+### Read 2018
+| Download Favoritos para importa no Google Chrome | https://gist.github.com/rodolfoizidoro/f0d5051d9109eb7dc70c2dfcf42a67aa
+| MVVM with Kotlin — Android Architecture Components, Dagger 2, Retrofit and RxAndroid | https://proandroiddev.com/mvvm-with-kotlin-android-architecture-components-dagger-2-retrofit-and-rxandroid-1a4ebb38c699
+| 30 summertime Android libraries and tools which you don’t want to miss in 2018 |https://medium.com/@mmbialas/30-summertime-android-libraries-and-tools-which-you-dont-want-to-miss-in-2018-fab053d69503
+| KeepSafe/TapTargetView An implementation of tap targets from the Material Design guidelines for feature discovery | https://github.com/KeepSafe/TapTargetView
+| Material Intro View is a showcase android library.| https://github.com/iammert/MaterialIntroView
+| Modern background execution in Android | https://android-developers.googleblog.com/2018/10/modern-background-execution-in-android.html?m=1
+| Dominando o Data Binding no Android| https://pt.slideshare.net/mobile/nglauber/dominando-o-data-binding-no-android
+| ifood-mobile-test| https://github.com/bloderxd/ifood-mobile-test
+| MvRx: Android on Autopilot| https://github.com/airbnb/MvRx
+| One @Rule to disable them all. – ProAndroidDev Animations. I mean animations. | https://proandroiddev.com/one-rule-to-disable-them-all-d387da440318
+| Elo7 Tech - Desmistificando o Dagger 2 | https://engenharia.elo7.com.br/desmistificando-dagger2/
+| LiveData beyond the ViewModel — Reactive patterns using Transformations and MediatorLiveData | https://medium.com/androiddevelopers/livedata-beyond-the-viewmodel-reactive-patterns-using-transformations-and-mediatorlivedata-fda520ba00b7
+| Using Android Architecture Components with Firebase Realtime Database (Part 1) | https://firebase.googleblog.com/2017/12/using-android-architecture-components.html?m=1
+| Creating custom ViewMatcher for espresso – Thiago Lopes Silva – Medium | https://medium.com/@thiagolopessilva/creating-custom-viewmatcher-for-espresso-75dde62dd173
+| An Android library supports badge notification like iOS in Samsung, LG, Sony and HTC launchers. | https://github.com/leolin310148/ShortcutBadger
+| Good to great UI animation tips – UX Collective | https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5
+| Groupie helps you display and manage complex RecyclerView layouts. | https://github.com/Genius/genius-groupie
+| Get Expandable RecyclerView In A Simple Way – AndroidPub | https://android.jlelse.eu/get-expandable-recyclerview-in-a-simple-way-8946046b4573
+| ConstraintLayout: Circular Positioning – DevNibbles – Medium | https://medium.com/devnibbles/constraintlayout-circular-positioning-9489b11cb0e5
+| ViewModels and LiveData: Patterns + AntiPatterns – Android Developers – Medium | https://medium.com/androiddevelopers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54
+| KEEP - Kotlin Evolution and Enhancement Process | https://github.com/Kotlin/KEEP
+| Android Apps Develop Fast(er) and Easier (saves 30 min daily) | https://blog.usejournal.com/android-apps-develop-fast-er-and-easier-saves-30-min-daily-9691f0c63573?gi=6486ab738dd8
+| Spectrum · Making mobile image processing simple | https://libspectrum.io
+| AppSpector: Remote debugging for mobile apps | https://appspector.com
+| Exploring the Android  Fragment Scenario component – Google Developers Experts – Medium | https://medium.com/google-developer-experts/exploring-the-android-fragment-scenario-component-e369ec587419
+| Understanding Android’s vector image format: VectorDrawable | https://medium.com/androiddevelopers/understanding-androids-vector-image-format-vectordrawable-ab09e41d5c68
+| A raffling app developed as a playground to study many topics related to Android. Kotlin + Coroutines + MVVM | https://github.com/fibelatti/raffler-kotlin
+| Upgrade your daily drive with new Android Auto features | https://www.blog.google/products/android/upgrade-your-daily-drive-new-android-auto-features/
+| Android ConstraintLayout 2.0: ConstraintLayoutStates – Riggaroo - Android Dev | https://riggaroo.co.za/constraintlayout-constraintlayoutstates/
+| Android codelab courses are here! | https://android-developers.googleblog.com/2018/12/android-codelab-courses-are-here.html?m=1
+| Kotlin Coroutines patterns & anti-patterns – ProAndroidDev | https://proandroiddev.com/kotlin-coroutines-patterns-anti-patterns-f9d12984c68e
+| Using vector assets in Android apps – Android Developers – Medium | https://medium.com/androiddevelopers/using-vector-assets-in-android-apps-4318fd662eb9
+| Introducing Android Sunflower – Android Developers – Medium | https://medium.com/androiddevelopers/introducing-android-sunflower-e421b43fe0c2
+| Como eu aprendi (um pouco sobre) RXJava | http://www.nglauber.com.br/2018/07/como-eu-aprendi-um-pouco-sobre-rxjava.html?m=1
+| Clean Android Application class with Dependency Injection: AppInitializer | https://proandroiddev.com/clean-android-application-class-with-dependency-injection-appinitializer-45999096f955
+| Dynamic iOS-like blur of underlying Views for Android | https://github.com/Dimezis/BlurView
+| Retrofit — Getting Started and Creating an Android Client | https://futurestud.io/tutorials/retrofit-getting-started-and-android-client
+| Exploring Android P: Priority Buckets – Google Developers Experts – Medium | https://medium.com/google-developer-experts/exploring-android-p-priority-buckets-d34d12059d36
