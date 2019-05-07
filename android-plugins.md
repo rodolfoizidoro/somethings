@@ -4,6 +4,8 @@ List of cool Android Studio plugins shortlisted by Android Dev BR community
 
 | Name | Download link |
 | -- | --|
+| Top 12 plugins for Android Studio | https://angrynerds.pl/blog/top-12-plugins-for-android-studio/
+| Top 10 most useful plugins for Android Studio | https://medium.com/@vatsalbajpai/top-10-most-useful-plugins-for-android-studio-23051200e2b3
 | Rainbow Brackets | https://plugins.jetbrains.com/plugin/10080-rainbow-brackets
 | Code Glance | https://plugins.jetbrains.com/plugin/7275-codeglance
 | ADB Idea | https://plugins.jetbrains.com/plugin/7380-adb-idea
