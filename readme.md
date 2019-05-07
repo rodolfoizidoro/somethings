@@ -9,6 +9,9 @@
 
 | Name | Link |
 | -- | --|
+| Android ViewModel LiveData boilerplate | https://medium.com/@rodolfoizidoro/android-viewmodel-livedata-boilerplate-4b6079577cd6
+| Instrumental Test: Better Espresso without sleep | https://medium.com/@elye.project/instrumental-test-better-espresso-without-sleep-d3391b19a581
+| Android developer Roadmap for 2019 | https://android.jlelse.eu/android-developer-roadmap-for-2019-14eacb0d0a2
 | Kotlin at Uber | http://talkingkotlin.com/kotlin-at-uber/
 | Measuring Kotlin Build Performance at Uber| https://eng.uber.com/measuring-kotlin-build-performance/
 | A curated list of awesome Android packages and resources. | https://github.com/JStumpp/awesome-android
