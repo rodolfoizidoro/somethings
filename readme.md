@@ -8,8 +8,14 @@
 ### Read 1/2 - 2019
 
 | Name | Link |
-| -- | --|
+| -- | -- |
 | Android ViewModel LiveData boilerplate | https://medium.com/@rodolfoizidoro/android-viewmodel-livedata-boilerplate-4b6079577cd6
+| DIY Reactive Model Store using RxJava | https://medium.com/@kanawish/diy-reactive-model-store-using-rxjava-e100fd86c136 |
+| DebounceLiveData | https://gist.github.com/luciofm/3ae1c0869cf9a05cd9a2e9e5baa9c1c9 |
+| Using Kotlin Coroutines in your Android App | https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0 |
+| Kotlin Flows and Coroutines | https://medium.com/@elizarov/kotlin-flows-and-coroutines-256260fb3bdb |
+| Kotlin + Coroutines + MVVM | https://github.com/fibelatti/raffler-kotlin |
+| Google IO 2019 - PlayList | https://m.youtube.com/watch?v=td3Kd7fOROw&list=PLWz5rJ2EKKc9FfSQIRXEWyWpHD6TtwxMM |
 | Instrumental Test: Better Espresso without sleep | https://medium.com/@elye.project/instrumental-test-better-espresso-without-sleep-d3391b19a581
 | Android developer Roadmap for 2019 | https://android.jlelse.eu/android-developer-roadmap-for-2019-14eacb0d0a2
 | Kotlin at Uber | http://talkingkotlin.com/kotlin-at-uber/
