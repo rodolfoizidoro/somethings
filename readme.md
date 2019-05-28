@@ -5,6 +5,13 @@
 | -- | --|
 | Plugins for Android | https://github.com/rodolfoizidoro/somethings/blob/master/android-plugins.md
 
+
+
+### Slack Plugins
+| Name | Link |
+| -- | --|
+| Plugins for Android | https://github.com/rodolfoizidoro/somethings/blob/master/slack-plugins.md
+
 ### Read 1/2 - 2019
 
 | Name | Link |
