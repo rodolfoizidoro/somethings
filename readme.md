@@ -12,6 +12,16 @@
 | -- | --|
 | Plugins for Slack | https://github.com/rodolfoizidoro/somethings/blob/master/slack-plugins.md
 
+### Flutter
+| Name | Link |
+| -- | --|
+| Flutter: My favourite keyboard shortcuts | https://medium.com/coding-with-flutter/flutter-my-favourite-keyboard-shortcuts-63f6474afc8c
+| Flutter — IDE Shortcuts for Faster Development | https://medium.com/flutter-community/flutter-ide-shortcuts-for-faster-development-2ef45c51085b
+| E este tal de flutter, bora iniciar e entender. | https://medium.com/@FilipeFNunes/e-este-tal-de-flutter-bora-iniciar-e-entender-5278cbebe2ca
+| From Kotlin to Dart — an Android developer’s perspective | https://medium.com/@wasyl/kotlin-developers-thoughts-on-dart-1f60c4ad21ad
+| Flutter - Construindo uma linda aplicação de notícias - Parte 1 | https://medium.com/collabcode/flutter-construindo-uma-linda-aplica%C3%A7%C3%A3o-de-not%C3%ADcias-parte-1-f0cbeecb7ab
+
+
 ### Read 1/2 - 2019
 
 | Name | Link |
