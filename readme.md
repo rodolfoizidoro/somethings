@@ -15,6 +15,7 @@
 ### Flutter
 | Name | Link |
 | -- | --|
+| Why flutter uses dart?| https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf |
 | Flutter: My favourite keyboard shortcuts | https://medium.com/coding-with-flutter/flutter-my-favourite-keyboard-shortcuts-63f6474afc8c
 | Flutter — IDE Shortcuts for Faster Development | https://medium.com/flutter-community/flutter-ide-shortcuts-for-faster-development-2ef45c51085b
 | E este tal de flutter, bora iniciar e entender. | https://medium.com/@FilipeFNunes/e-este-tal-de-flutter-bora-iniciar-e-entender-5278cbebe2ca
