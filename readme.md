@@ -15,6 +15,7 @@
 ### Flutter
 | Name | Link |
 | -- | --|
+| Flutter at Google I/O 2019 sketched From design to architecture and language features | https://medium.com/@laramartin/flutter-at-google-i-o-2019-sketched-7d58de39cf13 | 
 | Why flutter uses dart?| https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf |
 | Flutter: My favourite keyboard shortcuts | https://medium.com/coding-with-flutter/flutter-my-favourite-keyboard-shortcuts-63f6474afc8c
 | Flutter — IDE Shortcuts for Faster Development | https://medium.com/flutter-community/flutter-ide-shortcuts-for-faster-development-2ef45c51085b
@@ -27,6 +28,13 @@
 
 | Name | Link |
 | -- | -- |
+| Behind Dynamic System Updates in Android Q: How Google is using Project Treble to improve future Android releases | https://www.xda-developers.com/android-q-dynamic-system-updates-project-treble/ |
+| Modularization - Why you should care | https://jeroenmols.com/blog/2019/03/06/modularizationwhy/ |
+| Ready for Koin 2.0 | https://medium.com/koin-developers/ready-for-koin-2-0-2722ab59cac3 |
+| Modularization - Real-life example | https://jeroenmols.com/blog/2019/04/02/modularizationexample/ |
+| Coroutines on Android: This is part of a multi-part series about using Coroutines on Android. This post focuses on how coroutines work and what problems they solve. | https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb |
+| Reactive How Visualizer | https://reactive.how |
+| Kotlin: Don’t just use LET for null check | https://medium.com/@elye.project/kotlin-dont-just-use-let-7e91f544e27f?sk=6d8d04c5c00613f20e20fe057b3ebd51 |
 | Kotlin Coroutines on Android - Example and list of 12 articles in medium | https://github.com/andreabresolin/AndroidCoroutinesPlayground |
 | Android ViewModel LiveData boilerplate | https://medium.com/@rodolfoizidoro/android-viewmodel-livedata-boilerplate-4b6079577cd6
 | DIY Reactive Model Store using RxJava | https://medium.com/@kanawish/diy-reactive-model-store-using-rxjava-e100fd86c136 |
