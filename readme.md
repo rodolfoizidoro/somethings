@@ -15,6 +15,8 @@
 ### Flutter
 | Name | Link |
 | -- | --|
+| Announcing Dart 2.3: Optimized for building user interfaces | https://medium.com/dartlang/announcing-dart-2-3-optimized-for-building-user-interfaces-e84919ca1dff |
+| Dart Excitement From Kotliner Perspective | https://medium.com/swlh/dart-excitement-from-kotliner-perspective-4831933ef39b |
 | Flutter at Google I/O 2019 sketched From design to architecture and language features | https://medium.com/@laramartin/flutter-at-google-i-o-2019-sketched-7d58de39cf13 | 
 | Why flutter uses dart?| https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf |
 | Flutter: My favourite keyboard shortcuts | https://medium.com/coding-with-flutter/flutter-my-favourite-keyboard-shortcuts-63f6474afc8c
