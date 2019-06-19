@@ -15,6 +15,8 @@
 ### Flutter
 | Name | Link |
 | -- | -- |
+| How to Use Flutter for Hybrid Development: Alibaba’s Open Source Code Instance | https://hackernoon.com/how-to-use-flutter-for-hybrid-development-alibabas-open-source-code-instance-302bf2273485 |
+| Utilizing Flutter: Best Practice from Alibaba Tech | https://medium.com/@alitech_2017/utilizing-flutter-best-practice-from-alibaba-236a53aa32c8 |
 | Integrating Flutter into an Existing App — Part One: Flutter with Submodules | https://medium.com/@tpolansk/integrating-flutter-into-an-existing-app-part-one-flutter-with-submodules-9b633ff3cf10 |
 | Kotlin or Flutter? Are you comparing them fairly? | https://goobar.io/2019/06/13/kotlin-or-flutter-are-you-comparing-them-fairly/ |
 | Flutter : Collapsing Toolbar — Sliver App Bar | https://medium.com/@diegoveloper/flutter-collapsing-toolbar-sliver-app-bar-14b858e87abe |
