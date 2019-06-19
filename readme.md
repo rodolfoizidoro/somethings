@@ -9,12 +9,16 @@
 
 ### Slack Plugins
 | Name | Link |
-| -- | --|
+| -- | -- |
 | Plugins for Slack | https://github.com/rodolfoizidoro/somethings/blob/master/slack-plugins.md
 
 ### Flutter
 | Name | Link |
-| -- | --|
+| -- | -- |
+| Integrating Flutter into an Existing App — Part One: Flutter with Submodules | https://medium.com/@tpolansk/integrating-flutter-into-an-existing-app-part-one-flutter-with-submodules-9b633ff3cf10 |
+| Kotlin or Flutter? Are you comparing them fairly? | https://goobar.io/2019/06/13/kotlin-or-flutter-are-you-comparing-them-fairly/ |
+| Flutter : Collapsing Toolbar — Sliver App Bar | https://medium.com/@diegoveloper/flutter-collapsing-toolbar-sliver-app-bar-14b858e87abe |
+| Flutter: keyboard actions and next focus field | https://medium.com/flutterpub/flutter-keyboard-actions-and-next-focus-field-3260dc4c694|
 | Announcing Dart 2.3: Optimized for building user interfaces | https://medium.com/dartlang/announcing-dart-2-3-optimized-for-building-user-interfaces-e84919ca1dff |
 | Dart Excitement From Kotliner Perspective | https://medium.com/swlh/dart-excitement-from-kotliner-perspective-4831933ef39b |
 | Flutter at Google I/O 2019 sketched From design to architecture and language features | https://medium.com/@laramartin/flutter-at-google-i-o-2019-sketched-7d58de39cf13 | 
