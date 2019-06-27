@@ -15,6 +15,11 @@
 ### Flutter
 | Name | Link |
 | -- | -- |
+| Flutter Calendar Libraries Comparison | https://medium.com/flutter-community/flutter-calendar-library-comparison-c08d5ba3cc9e |
+| Flutter - Testable architecture using Redux | https://jorgecastillo.dev/flutter-end-to-end-testable-architecture-using-redux |
+| Flutter Architecture - My Provider Implementation Guide | https://www.filledstacks.com/post/flutter-architecture-my-provider-implementation-guide/ |
+| Flutter Architecture - ScopedModel implementation Guide | https://www.filledstacks.com/post/flutter-architecture-scoped-model-implementation-guide/ |
+| Architect your Flutter project using BLOC pattern | https://medium.com/flutterpub/architecting-your-flutter-project-bd04e144a8f1 |
 | How to Use Flutter for Hybrid Development: Alibaba’s Open Source Code Instance | https://hackernoon.com/how-to-use-flutter-for-hybrid-development-alibabas-open-source-code-instance-302bf2273485 |
 | Utilizing Flutter: Best Practice from Alibaba Tech | https://medium.com/@alitech_2017/utilizing-flutter-best-practice-from-alibaba-236a53aa32c8 |
 | Integrating Flutter into an Existing App — Part One: Flutter with Submodules | https://medium.com/@tpolansk/integrating-flutter-into-an-existing-app-part-one-flutter-with-submodules-9b633ff3cf10 |
@@ -36,6 +41,11 @@
 
 | Name | Link |
 | -- | -- |
+| ViewModels with Saved State, Jetpack Navigation, Data Binding and Coroutines | https://medium.com/androiddevelopers/viewmodels-with-saved-state-jetpack-navigation-data-binding-and-coroutines-df476b78144e |
+| Setting up a Material Components theme for Android | https://medium.com/over-engineering/setting-up-a-material-components-theme-for-android-fbf7774da739 |
+| Modularization - Lessons learned | https://jeroenmols.com/blog/2019/06/12/modularizationtips/ |
+| Kotlin Coroutines Flow + LiveData + Data Binding = 😻 | https://medium.com/@chibatching/kotlin-coroutines-flow-livedata-data-binding-b3436c4ca818 |
+| Reactive Streams and Kotlin Flows | https://medium.com/@elizarov/reactive-streams-and-kotlin-flows-bfd12772cda4 |
 | Behind Dynamic System Updates in Android Q: How Google is using Project Treble to improve future Android releases | https://www.xda-developers.com/android-q-dynamic-system-updates-project-treble/ |
 | Modularization - Why you should care | https://jeroenmols.com/blog/2019/03/06/modularizationwhy/ |
 | Ready for Koin 2.0 | https://medium.com/koin-developers/ready-for-koin-2-0-2722ab59cac3 |
