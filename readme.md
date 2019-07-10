@@ -15,6 +15,15 @@
 ### Flutter
 | Name | Link |
 | -- | -- |
+| Build a chatbot in 20 minutes using Flutter and Dialogflow | https://medium.com/@promise_amadi/build-a-chatbot-in-20-minutes-using-flutter-and-dialogflow-8e9af1014463?source=your_stories_page--------------------------- |
+| Top 8 Flutter Advantages and Why You Should Try Flutter on Your Next Project | https://relevant.software/blog/top-8-flutter-advantages-and-why-you-should-try-flutter-on-your-next-project/ |
+| Architect your Flutter project using BLOC pattern | https://medium.com/flutterpub/architecting-your-flutter-project-bd04e144a8f1 |
+| Compile time Dependency Injection in Flutter | https://medium.com/@sagarsuri56/compile-time-dependency-injection-in-flutter-95bb190b4a71 |
+| Handling Network Calls like a Pro in Flutter | https://medium.com/flutter-community/handling-network-calls-like-a-pro-in-flutter-31bd30c86be1 |
+| Dart Excitement From Kotliner Perspective | https://medium.com/swlh/dart-excitement-from-kotliner-perspective-4831933ef39b |
+| Flutter Everywhere | https://github.com/AppleEducate/flutter_everywhere |
+| flutter_clean_architecture Package | https://github.com/ShadyBoukhary/flutter_clean_architecture |
+| A guide to Flutter Semantics ( Acessability) | https://kpsroka.dev/technical/guide-to-flutter-semantics.html |
 | Flutter Calendar Libraries Comparison | https://medium.com/flutter-community/flutter-calendar-library-comparison-c08d5ba3cc9e |
 | Flutter - Testable architecture using Redux | https://jorgecastillo.dev/flutter-end-to-end-testable-architecture-using-redux |
 | Flutter Architecture - My Provider Implementation Guide | https://www.filledstacks.com/post/flutter-architecture-my-provider-implementation-guide/ |
@@ -41,6 +50,7 @@
 
 | Name | Link |
 | -- | -- |
+| Idiomatic Kotlin. Best Practices | https://phauer.com/2017/idiomatic-kotlin-best-practices/ |
 | ViewModels with Saved State, Jetpack Navigation, Data Binding and Coroutines | https://medium.com/androiddevelopers/viewmodels-with-saved-state-jetpack-navigation-data-binding-and-coroutines-df476b78144e |
 | Setting up a Material Components theme for Android | https://medium.com/over-engineering/setting-up-a-material-components-theme-for-android-fbf7774da739 |
 | Modularization - Lessons learned | https://jeroenmols.com/blog/2019/06/12/modularizationtips/ |
