@@ -15,7 +15,7 @@
 ### Flutter
 | Name | Link |
 | -- | -- |
-| Build a chatbot in 20 minutes using Flutter and Dialogflow | https://medium.com/@promise_amadi/build-a-chatbot-in-20-minutes-using-flutter-and-dialogflow-8e9af1014463?source=your_stories_page--------------------------- |
+| Build a chatbot in 20 minutes using Flutter and Dialogflow | https://medium.com/@promise_amadi/build-a-chatbot-in-20-minutes-using-flutter-and-dialogflow-8e9af1014463 |
 | Top 8 Flutter Advantages and Why You Should Try Flutter on Your Next Project | https://relevant.software/blog/top-8-flutter-advantages-and-why-you-should-try-flutter-on-your-next-project/ |
 | Architect your Flutter project using BLOC pattern | https://medium.com/flutterpub/architecting-your-flutter-project-bd04e144a8f1 |
 | Compile time Dependency Injection in Flutter | https://medium.com/@sagarsuri56/compile-time-dependency-injection-in-flutter-95bb190b4a71 |
