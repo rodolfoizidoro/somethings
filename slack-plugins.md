@@ -2,6 +2,7 @@ List of cool Slack apps
 
 | Name | Download link |
 | -- | --|
+| Must Read | https://finalem.com/must-read |
 | Pull Reminders for Github | https://pullreminders.com/
 | Donut encourages trust, collaboration, and good will across your team and organization. Create an automated coffee or lunch roulette program instantly for your | https://www.donut.com/
 | Simple Poll | https://slack.com/apps/A0HFW7MR6-simple-poll
