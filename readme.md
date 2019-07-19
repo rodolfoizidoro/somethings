@@ -15,6 +15,11 @@
 ### Flutter
 | Name | Link |
 | -- | -- |
+| Widget — State — BuildContext — InheritedWidget | https://medium.com/flutter-community/widget-state-buildcontext-inheritedwidget-898d671b7956 |
+| Inheriting Widgets | https://medium.com/@mehmetf_71205/inheriting-widgets-b7ac56dbbeb1 |
+| Weather App with “flutter_bloc” | https://medium.com/flutter-community/weather-app-with-flutter-bloc-e24a7253340d |
+| How to make a Dismissible ListView in Flutter | https://medium.com/@maffan/how-to-make-a-dismissible-listview-in-flutter-a9f730a751be |
+| Flutter Android Deployment Workflow Done Right | https://medium.com/flutter-community/flutter-deployment-workflow-done-right-9c2b87ebfd20 |
 | Build a chatbot in 20 minutes using Flutter and Dialogflow | https://medium.com/@promise_amadi/build-a-chatbot-in-20-minutes-using-flutter-and-dialogflow-8e9af1014463 |
 | Top 8 Flutter Advantages and Why You Should Try Flutter on Your Next Project | https://relevant.software/blog/top-8-flutter-advantages-and-why-you-should-try-flutter-on-your-next-project/ |
 | Architect your Flutter project using BLOC pattern | https://medium.com/flutterpub/architecting-your-flutter-project-bd04e144a8f1 |
@@ -50,6 +55,8 @@
 
 | Name | Link |
 | -- | -- |
+| Navigation in Modular Applications with Deep Linking | https://blog.usejournal.com/navigation-in-modular-applications-with-deep-linking-6a599c11e487 |
+| Implementation vs API dependency | https://jeroenmols.com/blog/2017/06/14/androidstudio3/ |
 | Idiomatic Kotlin. Best Practices | https://phauer.com/2017/idiomatic-kotlin-best-practices/ |
 | ViewModels with Saved State, Jetpack Navigation, Data Binding and Coroutines | https://medium.com/androiddevelopers/viewmodels-with-saved-state-jetpack-navigation-data-binding-and-coroutines-df476b78144e |
 | Setting up a Material Components theme for Android | https://medium.com/over-engineering/setting-up-a-material-components-theme-for-android-fbf7774da739 |
