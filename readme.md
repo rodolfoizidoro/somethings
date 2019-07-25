@@ -15,6 +15,11 @@
 ### Flutter
 | Name | Link |
 | -- | -- |
+| Flutter Platform Channels | https://medium.com/flutter/flutter-platform-channels-ce7f540a104e |
+| The complete series "Architect your Flutter project using BLoC pattern" | https://www.reddit.com/r/FlutterDev/comments/cgdi15/the_complete_series_architect_your_flutter/?utm_medium=android_app&utm_source=share |
+| Integration and Unit testing in Flutter | https://blog.usejournal.com/integration-and-unit-testing-in-flutter-f08e4bd961d5 |
+| Flutter clone of Kotlin Multiplatform Votlin App | https://github.com/worldline-spain/flutter_votlin_app |
+| Do Flutter apps dream of platform aware widgets? | https://medium.com/flutter/do-flutter-apps-dream-of-platform-aware-widgets-7d7ed7b4624d |
 | Widget — State — BuildContext — InheritedWidget | https://medium.com/flutter-community/widget-state-buildcontext-inheritedwidget-898d671b7956 |
 | Inheriting Widgets | https://medium.com/@mehmetf_71205/inheriting-widgets-b7ac56dbbeb1 |
 | Weather App with “flutter_bloc” | https://medium.com/flutter-community/weather-app-with-flutter-bloc-e24a7253340d |
