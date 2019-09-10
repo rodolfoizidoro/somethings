@@ -15,6 +15,14 @@
 ### Flutter
 | Name | Link |
 | -- | -- |
+| A deep dive into Flutter’s accessibility widgets | https://medium.com/flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc |
+| What’s Revolutionary about Flutter | https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514 |
+| Flutter Internationalization : the easy way with flappy_translator | https://blog.smartnsoft.com/flutter-internationalization-the-easy-way-with-flappy-translator-ef1e9e80ec58 |
+| Android Strings To Flutter | https://medium.com/flutter-community/android-strings-to-flutter-12a5c307147c |
+| rom Kotlin to Dart Cheat Sheets | https://www.reddit.com/r/androiddev/comments/cwbfuc/from_kotlin_to_dart_cheat_sheets/ |
+| Build Your Responsive Flutter Layout like A Pro | https://medium.com/flutter-community/build-your-responsive-flutter-layout-like-a-pro-6bf86aaed81e |
+| Finished! Porting a 75,000 line native iOS app to Flutter | https://medium.com/flutter-community/finished-porting-a-75-000-line-native-ios-app-to-flutter-b5c0bff93715 |
+| A fully working sample Flutter app implementation. | https://github.com/cingulo/flutter-sample |
 | Flutter Platform Channels | https://medium.com/flutter/flutter-platform-channels-ce7f540a104e |
 | The complete series "Architect your Flutter project using BLoC pattern" | https://www.reddit.com/r/FlutterDev/comments/cgdi15/the_complete_series_architect_your_flutter/?utm_medium=android_app&utm_source=share |
 | Integration and Unit testing in Flutter | https://blog.usejournal.com/integration-and-unit-testing-in-flutter-f08e4bd961d5 |
@@ -60,6 +68,8 @@
 
 | Name | Link |
 | -- | -- |
+| Kotlin+Dagger best practices/documentation/pain points | https://github.com/google/dagger/issues/900#issuecomment-410041915 |
+| SnackBar e o FloatingActionButton do Android | https://medium.com/@nglauber/snackbar-e-o-floatingactionbutton-do-android-477838a2fd1f |
 | Navigation in Modular Applications with Deep Linking | https://blog.usejournal.com/navigation-in-modular-applications-with-deep-linking-6a599c11e487 |
 | Implementation vs API dependency | https://jeroenmols.com/blog/2017/06/14/androidstudio3/ |
 | Idiomatic Kotlin. Best Practices | https://phauer.com/2017/idiomatic-kotlin-best-practices/ |
