@@ -19,7 +19,7 @@
 | What’s Revolutionary about Flutter | https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514 |
 | Flutter Internationalization : the easy way with flappy_translator | https://blog.smartnsoft.com/flutter-internationalization-the-easy-way-with-flappy-translator-ef1e9e80ec58 |
 | Android Strings To Flutter | https://medium.com/flutter-community/android-strings-to-flutter-12a5c307147c |
-| rom Kotlin to Dart Cheat Sheets | https://www.reddit.com/r/androiddev/comments/cwbfuc/from_kotlin_to_dart_cheat_sheets/ |
+| From Kotlin to Dart Cheat Sheets | https://www.reddit.com/r/androiddev/comments/cwbfuc/from_kotlin_to_dart_cheat_sheets/ |
 | Build Your Responsive Flutter Layout like A Pro | https://medium.com/flutter-community/build-your-responsive-flutter-layout-like-a-pro-6bf86aaed81e |
 | Finished! Porting a 75,000 line native iOS app to Flutter | https://medium.com/flutter-community/finished-porting-a-75-000-line-native-ios-app-to-flutter-b5c0bff93715 |
 | A fully working sample Flutter app implementation. | https://github.com/cingulo/flutter-sample |
