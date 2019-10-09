@@ -15,6 +15,10 @@
 ### Flutter
 | Name | Link |
 | -- | -- |
+| We’re the Flutter team at Google. Ask Us Anything! (starts September 19th from 12:00 - 1:30 PDT) | https://www.reddit.com/r/FlutterDev/comments/d51o4w/were_the_flutter_team_at_google_ask_us_anything/?utm_medium=android_app&utm_source=share |
+| Flutter: webview_flutter Customizations (part 1: set as custom) | https://medium.com/@fredriccliver/flutter-webview-flutter-customizations-part-1-set-as-custom-a623b388b4dd |
+| Refactoring a Flutter Project — a Story About Progression and Decisions | https://medium.com/flutter-community/refactoring-a-flutter-project-a-story-about-progression-and-decisions-d843c36001fb |
+| Flutter: Push, Pop, Push | https://medium.com/flutter-portugal/flutter-push-pop-push-8cc3b038f415 |
 | A deep dive into Flutter’s accessibility widgets | https://medium.com/flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc |
 | What’s Revolutionary about Flutter | https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514 |
 | Flutter Internationalization : the easy way with flappy_translator | https://blog.smartnsoft.com/flutter-internationalization-the-easy-way-with-flappy-translator-ef1e9e80ec58 |
@@ -68,6 +72,9 @@
 
 | Name | Link |
 | -- | -- |
+| Android Coroutine Recipes | https://proandroiddev.com/android-coroutine-recipes-33467a4302e9 |
+| Getting started with Android ViewBinding | https://medium.com/@ramonrabello/getting-started-with-android-viewbinding-f8bc3d4c6d85 |
+| Live Templates in Android Studio: Getting Started | https://www.raywenderlich.com/4979242-live-templates-in-android-studio-getting-started |
 | Kotlin+Dagger best practices/documentation/pain points | https://github.com/google/dagger/issues/900#issuecomment-410041915 |
 | SnackBar e o FloatingActionButton do Android | https://medium.com/@nglauber/snackbar-e-o-floatingactionbutton-do-android-477838a2fd1f |
 | Navigation in Modular Applications with Deep Linking | https://blog.usejournal.com/navigation-in-modular-applications-with-deep-linking-6a599c11e487 |
